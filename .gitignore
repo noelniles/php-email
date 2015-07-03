@@ -1,0 +1,4 @@
+log/
+
+# Ignore the form action, because it might contain real emails.
+form_action.php
